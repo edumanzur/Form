@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    border-radius: 50px;
+    border: solid 1px black;
+    width: 250px;
+    height: 250px;
+    margin-left: 650px;
+    margin-top: 120px;
+}
